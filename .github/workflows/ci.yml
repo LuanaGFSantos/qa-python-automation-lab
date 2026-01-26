@@ -8,7 +8,6 @@ on:
 jobs:
   run-tests:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
@@ -25,4 +24,4 @@ jobs:
 
       - name: Executar testes
         run: |
-          pytest
+          pytest -q
