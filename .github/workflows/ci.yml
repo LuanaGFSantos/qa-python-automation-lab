@@ -1,4 +1,5 @@
 
+
 name: CI - Testes Automatizados
 
 on:
@@ -24,4 +25,4 @@ jobs:
 
       - name: Executar testes
         run: |
-          pytest -q
+          PYTHONPATH=. pytest -vv
