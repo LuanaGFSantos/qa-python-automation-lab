@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    # Resposta simples para facilitar os testes e o CI
+
     return "Hello World", 200
 
 
