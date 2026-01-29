@@ -1,4 +1,4 @@
-# qa-Python-automation-lab:
+# qa-Python-automation-lab
 Projeto de Portfólio – QA / Automação de Testes
 Desenvolvimento de uma aplicação simples em Python com Flask, integrada a um pipeline de Integração Contínua (CI) utilizando GitHub Actions.
 O projeto contempla a criação e execução automática de testes funcionais com pytest, disparados a cada push no repositório. O pipeline realiza a configuração do ambiente, instalação de dependências e validação da aplicação, garantindo que a rota principal esteja funcional antes de qualquer entrega.
