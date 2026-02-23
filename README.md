@@ -1,6 +1,6 @@
-# 🧪 QA Python Automation Lab
+🧪 QA Python Automation Lab
 
-Projeto de laboratório focado em **automação de testes com Python**, aplicando boas práticas de arquitetura, organização de código e integração contínua.
+Projeto de laboratório focado em automação de testes com Python, aplicando boas práticas de arquitetura, organização de código e integração contínua.
 
 Este projeto demonstra como estruturar testes automatizados de forma escalável e integrada a pipelines CI/CD.
 
@@ -17,3 +17,46 @@ Este projeto demonstra como estruturar testes automatizados de forma escalável 
 ---
 
 ## 📁 Estrutura do Projeto
+qa-python-automation-lab/
+│
+├── tests/
+├── pages/
+├── utils/
+├── requirements.txt
+└── .github/workflows/
+
+---
+
+## ▶️ Executando Localmente
+
+```bash
+git clone https://github.com/LuanaGFSantos/qa-python-automation-lab.git
+cd qa-python-automation-lab
+pip install -r requirements.txt
+pytest
+⚙️ Integração Contínua
+
+O projeto possui pipeline automatizada com GitHub Actions, executando os testes a cada push na branch main.
+
+Isso garante:
+
+Validação automática
+
+Detecção rápida de falhas
+
+Maior confiabilidade do projeto
+
+🧠 Conceitos Aplicados
+
+Automação escalável
+
+Separação de responsabilidades
+
+Organização modular
+
+Integração contínua aplicada a QA
+
+👩‍💻 Autora
+
+Luana Gomes
+SDET & QA Engineer
