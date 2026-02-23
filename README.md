@@ -1,4 +1,6 @@
 ![CI](https://github.com/LuanaGFSantos/qa-python-automation-lab/actions/workflows/ci.yml/badge.svg)
+
+
 🧪 QA Python Automation Lab
 
 Projeto de laboratório focado em automação de testes com Python, aplicando boas práticas de arquitetura, organização de código e integração contínua.
