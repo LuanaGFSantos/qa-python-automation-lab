@@ -1,4 +1,5 @@
 ![CI](https://github.com/LuanaGFSantos/qa-python-automation-lab/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-80%25+-brightgreen)
 
 
 🧪 QA Python Automation Lab
