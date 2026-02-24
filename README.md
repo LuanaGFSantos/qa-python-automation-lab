@@ -14,9 +14,8 @@ Este projeto demonstra como estruturar testes automatizados de forma escalável 
 
 - Python 3.x
 - Pytest
-- Selenium (se estiver usando)
 - GitHub Actions (CI)
-- Allure Reports (se aplicável)
+- Allure Reports 
 
 ---
 
